@@ -13,7 +13,7 @@
 ## Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.ahmedsalem9494:MVP-KYC:1.0.4'
+	        implementation 'com.github.MVP-Solutions-io:KYC_SDK_Android:1.0.0'
 	}
   
 ## Step 3. Call from Activity or Fragment
